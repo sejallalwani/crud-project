@@ -49,11 +49,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://github.com/sejallalwani/crud-project](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://github.com/sejallalwani/crud-project](https://github.com/sejallalwani/crud-project)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: [https://github.com/sejallalwani/crud-project](https://github.com/sejallalwani/crud-project)
 
 ### Making a Progressive Web App
 
@@ -65,7 +65,7 @@ This section has moved here:(https://github.com/sejallalwani/crud-project)
 
 ### Deployment
 
-This section has moved here: [https://github.com/sejallalwani/crud-project](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://github.com/sejallalwani/crud-project](https://github.com/sejallalwani/crud-project)
 
 ### `npm run build` fails to minify
 
